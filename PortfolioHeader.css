@@ -1,0 +1,33 @@
+.header {
+    padding: 10px;
+    background: #bc986a;
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+
+.bar-item {
+    background: #bc986a;
+    width: 24%;
+    float: inline-start;
+    font-size: 12px;
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial;
+    display:block;
+}
+
+a:link {
+    color: black;
+    background-color:#bc986a;
+}
+
+a:visited {
+    color: black;
+    background-color:#bc986a;
+}
+  
+a:hover {
+    color: white;
+    background-color: #8d8741;
+}

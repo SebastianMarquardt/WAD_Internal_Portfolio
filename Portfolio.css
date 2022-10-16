@@ -1,0 +1,22 @@
+.alligned {
+    padding-top: 80px;
+}
+
+.image-center {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.title {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 1%;
+}
+
+.main {
+    background-color: #659dbd;
+    width: 100%;
+    padding: 4px;
+}
