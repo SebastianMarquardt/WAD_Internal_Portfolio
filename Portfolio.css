@@ -20,3 +20,27 @@
     width: 100%;
     padding: 4px;
 }
+
+.image {
+    width: 400px;
+    padding: 30px;
+}
+
+.image-left {
+    width: 400px;
+    float: left;
+    padding: 30px;
+}
+
+.text-left {
+    text-align: justify;
+    float: left;
+    width: 800px;
+    font-size: larger;
+}
+
+.text-right {
+    text-align: justify;
+    padding: 10px;
+    font-size: larger;
+}
