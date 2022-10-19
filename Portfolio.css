@@ -25,17 +25,18 @@ body {
     padding: 30px;
 }
 
+.text-left {
+    text-align: justify;
+    font-size: larger;
+    float: left;
+    padding: 10px;
+    width: 60%;
+}
+
 .image-left {
     width: 30%;
     float: left;
     padding: 30px;
-}
-
-.text-left {
-    text-align: justify;
-    width: 65%;
-    font-size: larger;
-    float: left;
 }
 
 .text-right {
