@@ -1,9 +1,41 @@
 .footer {
-    position: fixed;
     left: 0;
-    bottom: 0;
+    position: absolute;
     width: 100%;
-    background-color: #daad86;
+    background-color: #659dbd;
     color: white;
+}
+
+.social-item {
+    background: #659dbd;
+    width: 10%;
+    float: left;
+    font-size: 12px;
     text-align: center;
+    text-decoration: none;
+    font-family: Arial;
+    display: block;
+    padding-top: 8px;
+}
+
+.social-item-disclaimer {
+    float: left;
+    padding-left: 10px;
+    color: black;
+    font-family: Arial;
+}
+
+a:link.social-item {
+    color: black;
+    background-color: #659dbd;
+}
+
+a:visited.social-item {
+    color: black;
+    background-color: #659dbd;
+}
+
+a:hover.social-item {
+    color: white;
+    background-color: #8d8741;
 }

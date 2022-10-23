@@ -15,19 +15,19 @@
     text-align: center;
     text-decoration: none;
     font-family: Arial;
-    display: block;
+    display:block;
 }
 
 a:link {
     color: black;
-    background-color: #bc986a;
+    background-color:#bc986a;
 }
 
 a:visited {
     color: black;
-    background-color: #bc986a;
+    background-color:#bc986a;
 }
-
+  
 a:hover {
     color: white;
     background-color: #8d8741;
