@@ -1,6 +1,6 @@
 .alligned {
     padding-top: 80px;
-    float: right;
+    float: left;
 }
 
 .image-center {
@@ -27,7 +27,7 @@ body {
 
 .text-left {
     text-align: justify;
-    font-size: larger;
+    font-size: 23px;
     float: left;
     padding: 10px;
     width: 60%;
@@ -42,5 +42,5 @@ body {
 .text-right {
     text-align: justify;
     padding: 10px;
-    font-size: larger;
+    font-size: 23px;
 }
